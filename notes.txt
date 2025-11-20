@@ -1,0 +1,1 @@
+This is a placeholder file for the Contoso Sales Business Intelligence Dashboard project. Tableau workbooks, screenshots, and supporting files will be added later.
